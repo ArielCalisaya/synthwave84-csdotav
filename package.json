@@ -1,5 +1,9 @@
 {
     "publisher": "csdotav",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ArielCalisaya/synthwave84-csdotav"
+    },
     "name": "synthwave84-monokai-edition",
     "displayName": "Synthwave '84 monokai edition",
     "description": "",
