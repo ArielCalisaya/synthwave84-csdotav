@@ -4,8 +4,8 @@
         "type": "git",
         "url": "https://github.com/ArielCalisaya/synthwave84-csdotav"
     },
-    "name": "synthwave84-monokai-edition",
-    "displayName": "Synthwave '84 monokai edition",
+    "name": "synthwave84-csav-edition",
+    "displayName": "Synthwave '84 csav edition",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synthwave84 monokai Ed.",
+                "label": "Synthwave84 csav Ed.",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Synthwave84 monokai Ed.-color-theme.json"
+                "path": "./themes/synthwave84-csav-ed-color-theme.json"
             }
         ]
     }
