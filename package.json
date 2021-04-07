@@ -1,0 +1,22 @@
+{
+    "publisher": "csdotav",
+    "name": "synthwave84-monokai-edition",
+    "displayName": "Synthwave '84 monokai edition",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Synthwave84 monokai Ed.",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Synthwave84 monokai Ed.-color-theme.json"
+            }
+        ]
+    }
+}
