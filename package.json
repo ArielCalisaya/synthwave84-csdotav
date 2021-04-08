@@ -7,7 +7,7 @@
     "name": "synthwave84-csav-edition",
     "displayName": "Synthwave '84 csav edition",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.55.0"
     },
